@@ -1,0 +1,10 @@
+Los proyectos están hechos en .NET 6
+- Ejecutar la Script en el administrador del motor de base de datos
+- Abrir con Visual Studio 2022
+- El archivo .CSV se guardará por defecto en el directorio: Mis Documentos
+
+Patrones de diseño usados:
+-Repositoy
+-Unit Of Work
+-Dependency Injection
+-Adapter
