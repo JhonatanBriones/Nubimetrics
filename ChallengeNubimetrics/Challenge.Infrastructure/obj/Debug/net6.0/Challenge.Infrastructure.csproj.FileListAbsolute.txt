@@ -1,0 +1,17 @@
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\bin\Debug\net6.0\Challenge.Infrastructure.deps.json
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\bin\Debug\net6.0\Challenge.Infrastructure.dll
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\bin\Debug\net6.0\ref\Challenge.Infrastructure.dll
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\bin\Debug\net6.0\Challenge.Infrastructure.pdb
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\bin\Debug\net6.0\Challenge.Core.dll
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\bin\Debug\net6.0\Challenge.Core.pdb
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\obj\Debug\net6.0\Challenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\obj\Debug\net6.0\Challenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\obj\Debug\net6.0\Challenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\obj\Debug\net6.0\Challenge.Infrastructure.AssemblyInfo.cs
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\obj\Debug\net6.0\Challenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\obj\Debug\net6.0\Challenge.Infrastructure.csproj.CopyComplete
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\obj\Debug\net6.0\Challenge.Infrastructure.dll
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\obj\Debug\net6.0\ref\Challenge.Infrastructure.dll
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\obj\Debug\net6.0\Challenge.Infrastructure.pdb
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\bin\Debug\net6.0\Challenge.Infrastructure.runtimeconfig.json
+C:\Users\jhona\Documents\Jhonatan\Challenge\Nubimetrics\ChallengeNubimetrics\Challenge.Infrastructure\obj\Debug\net6.0\Challenge.Infrastructure.genruntimeconfig.cache

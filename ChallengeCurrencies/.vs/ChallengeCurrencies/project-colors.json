@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4f20e4a-485d-4380-9595-75c84f084353": {
+      "ProjectGuid": "e4f20e4a-485d-4380-9595-75c84f084353",
+      "DisplayName": "ChallengeCurrencies.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

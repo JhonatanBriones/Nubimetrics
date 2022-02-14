@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b090d3f2-b01f-4d7a-a8df-41f4c17f2b53": {
+      "ProjectGuid": "b090d3f2-b01f-4d7a-a8df-41f4c17f2b53",
+      "DisplayName": "Challenge.API",
+      "ColorIndex": 0
+    },
+    "435c0871-10c2-4166-a495-3e83a66016ff": {
+      "ProjectGuid": "435c0871-10c2-4166-a495-3e83a66016ff",
+      "DisplayName": "Challenge.Core",
+      "ColorIndex": 1
+    },
+    "3d09137c-4eed-4406-80bd-9a68c7ce45ba": {
+      "ProjectGuid": "3d09137c-4eed-4406-80bd-9a68c7ce45ba",
+      "DisplayName": "Challenge.Infrastructure",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "40a41724-de40-4954-a74e-62327ae145ca": {
+      "ProjectGuid": "40a41724-de40-4954-a74e-62327ae145ca",
+      "DisplayName": "Challenge.Tests",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
